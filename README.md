@@ -1,2 +1,3 @@
 # ansible-azure-deploy
-Deploy azure IaaS using Ansible
+Deploy Azure IaaS using Ansible
+Changed by eyal
